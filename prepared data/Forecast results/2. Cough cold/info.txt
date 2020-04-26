@@ -1,0 +1,2 @@
+(p,d,q) order =(10,1,2)
+test_size = 20%

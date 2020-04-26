@@ -1,2 +1,0 @@
-order = (13,2)
-test_size = 20%
